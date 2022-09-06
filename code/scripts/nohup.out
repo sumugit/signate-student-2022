@@ -1,0 +1,818 @@
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.decoder.weight', 'cls.predictions.decoder.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.dense.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.bias']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+# ============ start epoch:0 ============== #
+{'val_loss': 1.2600081594366777, 'score': 0.12469135802469135}
+save model weight
+# ============ start epoch:1 ============== #
+{'val_loss': 1.008586281224301, 'score': 0.45206367148014126}
+save model weight
+# ============ start epoch:2 ============== #
+{'val_loss': 0.8054217790302477, 'score': 0.5247993791627225}
+save model weight
+# ============ start epoch:3 ============== #
+{'val_loss': 0.6887183691325941, 'score': 0.6194876858583156}
+save model weight
+# ============ start epoch:4 ============== #
+{'val_loss': 0.7232600513257479, 'score': 0.6267011490924534}
+save model weight
+# ============ start epoch:5 ============== #
+{'val_loss': 0.6790648761548495, 'score': 0.6807799775208314}
+save model weight
+# ============ start epoch:6 ============== #
+{'val_loss': 0.7378600020157663, 'score': 0.6646644342607743}
+# ============ start epoch:7 ============== #
+{'val_loss': 0.7346504738456324, 'score': 0.6736042475708901}
+# ============ start epoch:8 ============== #
+{'val_loss': 0.7975677753749647, 'score': 0.7046398621445044}
+save model weight
+# ============ start epoch:9 ============== #
+{'val_loss': 0.7994169185036107, 'score': 0.7230373548475563}
+save model weight
+The percentage of predictions over threshold is 69.80883322346737 %
+# ============ start epoch:0 ============== #
+{'val_loss': 0.8259660821211966, 'score': 0.5623405124017556}
+save model weight
+# ============ start epoch:1 ============== #
+{'val_loss': 0.6814257471184981, 'score': 0.5965745965745965}
+save model weight
+# ============ start epoch:2 ============== #
+{'val_loss': 0.7149079222428171, 'score': 0.669605831592386}
+save model weight
+# ============ start epoch:3 ============== #
+{'val_loss': 0.7402934149691933, 'score': 0.6783618432695157}
+save model weight
+# ============ start epoch:4 ============== #
+{'val_loss': 0.7555950252633346, 'score': 0.6552497374429191}
+# ============ start epoch:5 ============== #
+{'val_loss': 0.8557299438275789, 'score': 0.6582481768694016}
+# ============ start epoch:6 ============== #
+{'val_loss': 0.8460731725943716, 'score': 0.673881876266168}
+# ============ start epoch:7 ============== #
+{'val_loss': 0.911181810655092, 'score': 0.6712054830675896}
+# ============ start epoch:8 ============== #
+{'val_loss': 0.9703329425109061, 'score': 0.6655699499352252}
+# ============ start epoch:9 ============== #
+{'val_loss': 0.9771926073651565, 'score': 0.6637664858868483}
+The percentage of predictions over threshold is 68.55636123928807 %
+# ============ start epoch:0 ============== #
+{'val_loss': 0.7400258716784025, 'score': 0.5448874716487806}
+save model weight
+# ============ start epoch:1 ============== #
+{'val_loss': 0.8527165965030068, 'score': 0.6065521874974238}
+save model weight
+# ============ start epoch:2 ============== #
+{'val_loss': 0.8282035902926796, 'score': 0.6523684264233927}
+save model weight
+# ============ start epoch:3 ============== #
+{'val_loss': 0.8007264513718454, 'score': 0.6772047738693467}
+save model weight
+# ============ start epoch:4 ============== #
+{'val_loss': 0.9478949873070968, 'score': 0.6652267293811625}
+# ============ start epoch:5 ============== #
+{'val_loss': 0.9807544350624084, 'score': 0.6732554900413203}
+# ============ start epoch:6 ============== #
+{'val_loss': 1.06072021628681, 'score': 0.6818377398904343}
+save model weight
+# ============ start epoch:7 ============== #
+{'val_loss': 1.0184785849169682, 'score': 0.7140216227168785}
+save model weight
+# ============ start epoch:8 ============== #
+{'val_loss': 1.0767284459189366, 'score': 0.6771144524541264}
+# ============ start epoch:9 ============== #
+{'val_loss': 1.1177777742084705, 'score': 0.6767642453322065}
+The percentage of predictions over threshold is 85.497692814766 %
+# ============ start epoch:0 ============== #
+{'val_loss': 0.7117520382529811, 'score': 0.6006183685535068}
+save model weight
+# ============ start epoch:1 ============== #
+{'val_loss': 0.7633750815140573, 'score': 0.6717145873339585}
+save model weight
+# ============ start epoch:2 ============== #
+{'val_loss': 0.8429332689235085, 'score': 0.6724610196277373}
+save model weight
+# ============ start epoch:3 ============== #
+{'val_loss': 0.8747941286940324, 'score': 0.6706458953109505}
+# ============ start epoch:4 ============== #
+{'val_loss': 0.897842498202073, 'score': 0.6765538945712037}
+save model weight
+# ============ start epoch:5 ============== #
+{'val_loss': 0.9574515474470038, 'score': 0.7147449520048126}
+save model weight
+# ============ start epoch:6 ============== #
+{'val_loss': 1.142827570438385, 'score': 0.6870782194102392}
+# ============ start epoch:7 ============== #
+{'val_loss': 1.1200617465533709, 'score': 0.6940779793120883}
+# ============ start epoch:8 ============== #
+{'val_loss': 1.1564718108428151, 'score': 0.6940779793120883}
+# ============ start epoch:9 ============== #
+{'val_loss': 1.1666151881217957, 'score': 0.6965431002998999}
+The percentage of predictions over threshold is 89.2551087673039 %
+# ============ start epoch:0 ============== #
+{'val_loss': 0.8662115147239283, 'score': 0.5874263609711762}
+save model weight
+# ============ start epoch:1 ============== #
+{'val_loss': 0.9071258118278102, 'score': 0.6539452513948976}
+save model weight
+# ============ start epoch:2 ============== #
+{'val_loss': 0.8944478474165264, 'score': 0.6771072818047003}
+save model weight
+# ============ start epoch:3 ============== #
+{'val_loss': 1.0484810659759922, 'score': 0.6523938178386032}
+# ============ start epoch:4 ============== #
+{'val_loss': 1.028424692781348, 'score': 0.6791612405108713}
+save model weight
+# ============ start epoch:5 ============== #
+{'val_loss': 1.1282014737003727, 'score': 0.6739698864018284}
+# ============ start epoch:6 ============== #
+{'val_loss': 1.308337180238021, 'score': 0.6642048573741341}
+# ============ start epoch:7 ============== #
+{'val_loss': 1.3535396041054475, 'score': 0.6611798820094011}
+# ============ start epoch:8 ============== #
+{'val_loss': 1.259479255660584, 'score': 0.6817051094579041}
+save model weight
+# ============ start epoch:9 ============== #
+{'val_loss': 1.324547999783566, 'score': 0.672486146130141}
+The percentage of predictions over threshold is 95.38562953197099 %
+# ============ start epoch:0 ============== #
+{'val_loss': 1.2779528941258345, 'score': 0.125}
+save model weight
+# ============ start epoch:1 ============== #
+{'val_loss': 1.2309425282399646, 'score': 0.125}
+# ============ start epoch:2 ============== #
+{'val_loss': 0.7869607147210502, 'score': 0.5213832616574917}
+save model weight
+# ============ start epoch:3 ============== #
+{'val_loss': 0.6733033843953223, 'score': 0.5716949997034853}
+save model weight
+# ============ start epoch:4 ============== #
+{'val_loss': 0.6585211427298316, 'score': 0.6793662217677824}
+save model weight
+# ============ start epoch:5 ============== #
+{'val_loss': 0.6519694814194154, 'score': 0.691820262923126}
+save model weight
+# ============ start epoch:6 ============== #
+{'val_loss': 0.6821942978566236, 'score': 0.6790360972946226}
+# ============ start epoch:7 ============== #
+{'val_loss': 0.6854860162971044, 'score': 0.7192994189776101}
+save model weight
+# ============ start epoch:8 ============== #
+{'val_loss': 0.6990601697770675, 'score': 0.708239056821616}
+# ============ start epoch:9 ============== #
+{'val_loss': 0.7111742624355228, 'score': 0.7188415464385427}
+The percentage of predictions over threshold is 52.01054713249835 %
+# ============ start epoch:0 ============== #
+{'val_loss': 0.9145394996447925, 'score': 0.48057053481803114}
+save model weight
+# ============ start epoch:1 ============== #
+{'val_loss': 0.6906444688047907, 'score': 0.5615531527296234}
+save model weight
+# ============ start epoch:2 ============== #
+{'val_loss': 0.6638952322525553, 'score': 0.6231193126539424}
+save model weight
+# ============ start epoch:3 ============== #
+{'val_loss': 0.6815490213164402, 'score': 0.6310967611744527}
+save model weight
+# ============ start epoch:4 ============== #
+{'val_loss': 0.7722872243856046, 'score': 0.6902155047836183}
+save model weight
+# ============ start epoch:5 ============== #
+{'val_loss': 0.7091212636566792, 'score': 0.733970888445554}Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+
+save model weight
+# ============ start epoch:6 ============== #
+{'val_loss': 0.7535770714479705, 'score': 0.726449135659662}
+# ============ start epoch:7 ============== #
+{'val_loss': 0.7652854913532143, 'score': 0.7300487202360529}
+# ============ start epoch:8 ============== #
+{'val_loss': 0.7646688238622332, 'score': 0.7294429915966819}
+# ============ start epoch:9 ============== #
+{'val_loss': 0.7840713176003383, 'score': 0.7300016353220008}
+The percentage of predictions over threshold is 67.36980883322346 %
+# ============ start epoch:0 ============== #
+{'val_loss': 0.847983986631085, 'score': 0.5334874114870181}
+save model weight
+# ============ start epoch:1 ============== #
+{'val_loss': 0.7273028032614453, 'score': 0.5779757724426375}
+save model weight
+# ============ start epoch:2 ============== #
+{'val_loss': 0.7696216694592642, 'score': 0.680257239801152}
+save model weight
+# ============ start epoch:3 ============== #
+{'val_loss': 0.737127166376649, 'score': 0.7019015119860099}
+save model weight
+# ============ start epoch:4 ============== #
+{'val_loss': 0.8143469049985653, 'score': 0.7180236959173423}
+save model weight
+# ============ start epoch:5 ============== #
+{'val_loss': 0.8165422174403376, 'score': 0.7276658688423394}
+save model weight
+# ============ start epoch:6 ============== #
+{'val_loss': 0.9029521778865223, 'score': 0.712640703457795}
+# ============ start epoch:7 ============== #
+{'val_loss': 0.8541768789291382, 'score': 0.732705136393661}
+save model weight
+# ============ start epoch:8 ============== #
+{'val_loss': 0.8941700084768113, 'score': 0.715329427017773}
+# ============ start epoch:9 ============== #
+{'val_loss': 0.8909728298879692, 'score': 0.7317294096083076}
+The percentage of predictions over threshold is 82.86090969017799 %
+# ============ start epoch:0 ============== #
+{'val_loss': 0.8614062824265005, 'score': 0.5054010697607998}
+save model weight
+# ============ start epoch:1 ============== #
+{'val_loss': 0.7282571324420841, 'score': 0.6108847184266178}
+save model weight
+# ============ start epoch:2 ============== #
+{'val_loss': 0.8057224549869499, 'score': 0.7080170717075345}
+save model weight
+# ============ start epoch:3 ============== #
+{'val_loss': 0.8036662174923586, 'score': 0.7208203873723273}
+save model weight
+# ============ start epoch:4 ============== #
+{'val_loss': 0.7885369145044006, 'score': 0.7272656938093811}
+save model weight
+# ============ start epoch:5 ============== #
+{'val_loss': 0.9105419022808767, 'score': 0.7170657299689559}
+# ============ start epoch:6 ============== #
+{'val_loss': 0.8972800914997315, 'score': 0.7356117233432802}
+save model weight
+# ============ start epoch:7 ============== #
+{'val_loss': 0.9848210154586893, 'score': 0.7129269329242378}
+# ============ start epoch:8 ============== #
+{'val_loss': 1.006338905186543, 'score': 0.6890082816714989}
+# ============ start epoch:9 ============== #
+{'val_loss': 1.0117904490763598, 'score': 0.7002804518681601}
+The percentage of predictions over threshold is 87.40936058009228 %
+# ============ start epoch:0 ============== #
+{'val_loss': 0.7770993827593209, 'score': 0.5841781646537227}
+save model weight
+# ============ start epoch:1 ============== #
+{'val_loss': 0.7868011395136515, 'score': 0.7022668789166251}
+save model weight
+# ============ start epoch:2 ============== #
+{'val_loss': 0.9032821973951737, 'score': 0.6828391015937365}
+# ============ start epoch:3 ============== #
+{'val_loss': 0.9516321141334256, 'score': 0.713534768970194}
+save model weight
+# ============ start epoch:4 ============== #
+{'val_loss': 0.9921717624066293, 'score': 0.7344311676445815}
+save model weight
+# ============ start epoch:5 ============== #
+{'val_loss': 0.9322443854297349, 'score': 0.7391565599920968}
+save model weight
+# ============ start epoch:6 ============== #
+{'val_loss': 1.0785751736203435, 'score': 0.715880588702652}
+# ============ start epoch:7 ============== #
+{'val_loss': 1.0917478418192847, 'score': 0.7231603090461052}
+# ============ start epoch:8 ============== #
+{'val_loss': 1.1375279713778605, 'score': 0.724627415770233}
+# ============ start epoch:9 ============== #
+{'val_loss': 1.1582868764109344, 'score': 0.7165019628137932}
+The percentage of predictions over threshold is 92.35332893869479 %
+# ============ start epoch:0 ============== #
+{'val_loss': 1.0956064358402793, 'score': 0.3515993773974977}
+save model weight
+# ============ start epoch:1 ============== #
+{'val_loss': 0.75021231331841, 'score': 0.5464837288090733}
+save model weight
+# ============ start epoch:2 ============== #
+{'val_loss': 0.6321895582841175, 'score': 0.5857306877060764}
+save model weight
+# ============ start epoch:3 ============== #
+{'val_loss': 0.6008178404848962, 'score': 0.6824476839303592}
+save model weight
+# ============ start epoch:4 ============== #
+{'val_loss': 0.596883238935628, 'score': 0.7199621068586586}
+save model weight
+# ============ start epoch:5 ============== #
+{'val_loss': 0.5972148276398285, 'score': 0.7001012145748987}
+# ============ start epoch:6 ============== #
+{'val_loss': 0.6025925434068484, 'score': 0.716882105811478}
+# ============ start epoch:7 ============== #
+{'val_loss': 0.614784581826465, 'score': 0.7553195955620602}
+save model weight
+# ============ start epoch:8 ============== #
+{'val_loss': 0.6104364924304949, 'score': 0.73915006401574}
+# ============ start epoch:9 ============== #
+{'val_loss': 0.6096762981351846, 'score': 0.7390305796836708}
+The percentage of predictions over threshold is 58.99802241265656 %
+# ============ start epoch:0 ============== #
+{'val_loss': 0.8881030192863036, 'score': 0.5268804447445068}
+save model weight
+# ============ start epoch:1 ============== #
+{'val_loss': 0.6433064166468756, 'score': 0.5948378804675352}
+save model weight
+# ============ start epoch:2 ============== #
+{'val_loss': 0.6216551026101946, 'score': 0.5766811873646123}
+# ============ start epoch:3 ============== #
+{'val_loss': 0.6119436131845607, 'score': 0.6112545149452316}
+save model weight
+# ============ start epoch:4 ============== #
+{'val_loss': 0.5629093428649524, 'score': 0.7082002965592632}
+save model weight
+# ============ start epoch:5 ============== #
+{'val_loss': 0.5881393982632326, 'score': 0.7659367195589175}
+save model weight
+# ============ start epoch:6 ============== #
+{'val_loss': 0.6296296951794388, 'score': 0.7855195286229769}
+save model weight
+# ============ start epoch:7 ============== #
+{'val_loss': 0.6849305558912825, 'score': 0.7427812398681042}
+# ============ start epoch:8 ============== #
+{'val_loss': 0.6723552676710752, 'score': 0.7658185999815377}
+# ============ start epoch:9 ============== #
+{'val_loss': 0.6903985158445025, 'score': 0.7753811234727709}
+The percentage of predictions over threshold is 74.15952537903758 %
+# ============ start epoch:0 ============== #
+{'val_loss': 0.7911137242128353, 'score': 0.5470669627577778}
+save model weight
+# ============ start epoch:1 ============== #
+{'val_loss': 0.676329232678555, 'score': 0.601687643020595}
+save model weight
+# ============ start epoch:2 ============== #
+{'val_loss': 0.6433603775383222, 'score': 0.7156003415820169}
+save model weight
+# ============ start epoch:3 ============== #
+{'val_loss': 0.5919411595505063, 'score': 0.7918890381497985}
+save model weight
+# ============ start epoch:4 ============== #
+{'val_loss': 0.6431522117589566, 'score': 0.7730530293326501}
+# ============ start epoch:5 ============== #
+{'val_loss': 0.6313460203680662, 'score': 0.7525829364096258}
+# ============ start epoch:6 ============== #
+{'val_loss': 0.7150092392471363, 'score': 0.7923425729654715}
+save model weight
+# ============ start epoch:7 ============== #
+{'val_loss': 0.7638888736762622, 'score': 0.7701606387744275}
+# ============ start epoch:8 ============== #
+{'val_loss': 0.8172101962684405, 'score': 0.7950100693107769}
+save model weight
+# ============ start epoch:9 ============== #
+{'val_loss': 0.8287620469681894, 'score': 0.7886619137411414}
+The percentage of predictions over threshold is 85.95912986156888 %
+# ============ start epoch:0 ============== #
+{'val_loss': 0.6326721985347987, 'score': 0.5955580155488542}
+save model weight
+# ============ start epoch:1 ============== #Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+
+{'val_loss': 0.6722618085716424, 'score': 0.6090374396678855}
+save model weight
+# ============ start epoch:2 ============== #
+{'val_loss': 0.6333877186570623, 'score': 0.7368575594222584}
+save model weight
+# ============ start epoch:3 ============== #
+{'val_loss': 0.7580630397639259, 'score': 0.7599543333230693}
+save model weight
+# ============ start epoch:4 ============== #
+{'val_loss': 0.714754060943528, 'score': 0.7578930765371443}
+# ============ start epoch:5 ============== #
+{'val_loss': 0.7948253681950836, 'score': 0.7810824106847062}
+save model weight
+# ============ start epoch:6 ============== #
+{'val_loss': 0.863589584237278, 'score': 0.7736996906583891}
+# ============ start epoch:7 ============== #
+{'val_loss': 0.8768771922234262, 'score': 0.7552118152940938}
+# ============ start epoch:8 ============== #
+{'val_loss': 0.908925176060239, 'score': 0.7720359225890238}
+# ============ start epoch:9 ============== #
+{'val_loss': 0.9153033491015041, 'score': 0.7846909643967772}
+save model weight
+The percentage of predictions over threshold is 91.2326961107449 %
+# ============ start epoch:0 ============== #
+{'val_loss': 0.6706901517244849, 'score': 0.6011002452816897}
+save model weight
+# ============ start epoch:1 ============== #
+{'val_loss': 0.7240896199402636, 'score': 0.6577756350540838}
+save model weight
+# ============ start epoch:2 ============== #
+{'val_loss': 0.6933341321378651, 'score': 0.7749924265554595}
+save model weight
+# ============ start epoch:3 ============== #
+{'val_loss': 0.7346003685060507, 'score': 0.792790128841302}
+save model weight
+# ============ start epoch:4 ============== #
+{'val_loss': 0.834985084266159, 'score': 0.7533250658106029}
+# ============ start epoch:5 ============== #
+{'val_loss': 0.8901388916638818, 'score': 0.7381702504958392}
+# ============ start epoch:6 ============== #
+{'val_loss': 0.922480827904377, 'score': 0.7875792437771989}
+# ============ start epoch:7 ============== #
+{'val_loss': 0.9516185667648567, 'score': 0.7794185356685357}
+# ============ start epoch:8 ============== #
+{'val_loss': 1.0579174576025985, 'score': 0.7696494556002178}
+# ============ start epoch:9 ============== #
+{'val_loss': 1.0974640724289142, 'score': 0.7935879011146196}
+save model weight
+The percentage of predictions over threshold is 94.5945945945946 %
+# ============ start epoch:0 ============== #
+{'val_loss': 0.9883384570823645, 'score': 0.5255650069306074}
+save model weight
+# ============ start epoch:1 ============== #
+{'val_loss': 0.6742514940378296, 'score': 0.5947662684776087}
+save model weight
+# ============ start epoch:2 ============== #
+{'val_loss': 0.6099583091515519, 'score': 0.6046677693736517}
+save model weight
+# ============ start epoch:3 ============== #
+{'val_loss': 0.6699273641353393, 'score': 0.5921346598945609}
+# ============ start epoch:4 ============== #
+{'val_loss': 0.6169591217544605, 'score': 0.6213613538118035}
+save model weight
+# ============ start epoch:5 ============== #
+{'val_loss': 0.5972847765428398, 'score': 0.6838648670366464}
+save model weight
+# ============ start epoch:6 ============== #
+{'val_loss': 0.6054334734926129, 'score': 0.7170381497035465}
+save model weight
+# ============ start epoch:7 ============== #
+{'val_loss': 0.6166579748931105, 'score': 0.6998946850478666}
+# ============ start epoch:8 ============== #
+{'val_loss': 0.6257432111025644, 'score': 0.7383327291539222}
+save model weight
+# ============ start epoch:9 ============== #
+{'val_loss': 0.6375264966055112, 'score': 0.7418406157002564}
+save model weight
+The percentage of predictions over threshold is 68.95187870797626 %
+# ============ start epoch:0 ============== #
+{'val_loss': 1.0387879436952445, 'score': 0.39277481551494664}
+save model weight
+# ============ start epoch:1 ============== #
+{'val_loss': 0.6492129282982829, 'score': 0.5825548461113444}
+save model weight
+# ============ start epoch:2 ============== #
+{'val_loss': 0.6891688224506063, 'score': 0.6322503102111691}
+save model weight
+# ============ start epoch:3 ============== #
+{'val_loss': 0.709831678631282, 'score': 0.6810270057165385}
+save model weight
+# ============ start epoch:4 ============== #
+{'val_loss': 0.6728683700262517, 'score': 0.7116069649262653}
+save model weight
+# ============ start epoch:5 ============== #
+{'val_loss': 0.6849340558445492, 'score': 0.6975399152818508}
+# ============ start epoch:6 ============== #
+{'val_loss': 0.7180041948167404, 'score': 0.7162550845451664}
+save model weight
+# ============ start epoch:7 ============== #
+{'val_loss': 0.7307767714604293, 'score': 0.7290860056048099}
+save model weight
+# ============ start epoch:8 ============== #
+{'val_loss': 0.7354496744993103, 'score': 0.7326363237934999}
+save model weight
+# ============ start epoch:9 ============== #
+{'val_loss': 0.7505455115447344, 'score': 0.721702045231457}
+The percentage of predictions over threshold is 81.27883981542519 %
+# ============ start epoch:0 ============== #
+{'val_loss': 0.6502888995428683, 'score': 0.5797466422466422}
+save model weight
+# ============ start epoch:1 ============== #
+{'val_loss': 0.660151465694503, 'score': 0.6522298042459332}
+save model weight
+# ============ start epoch:2 ============== #
+{'val_loss': 0.7289911276436482, 'score': 0.6608963581302972}
+save model weight
+# ============ start epoch:3 ============== #
+{'val_loss': 0.7632799870503617, 'score': 0.6325026852846402}
+# ============ start epoch:4 ============== #
+{'val_loss': 0.8278992913737155, 'score': 0.6761750155921005}
+save model weight
+# ============ start epoch:5 ============== #
+{'val_loss': 0.8211732040537466, 'score': 0.7053732430641495}
+save model weight
+# ============ start epoch:6 ============== #
+{'val_loss': 0.836611833116009, 'score': 0.7192549495030487}
+save model weight
+# ============ start epoch:7 ============== #
+{'val_loss': 0.8709681738327832, 'score': 0.7026187703841238}
+# ============ start epoch:8 ============== #
+{'val_loss': 0.8795440763530165, 'score': 0.7157193672138208}
+# ============ start epoch:9 ============== #
+{'val_loss': 0.8883015403259705, 'score': 0.720065408933088}
+save model weight
+The percentage of predictions over threshold is 90.30982201713908 %
+# ============ start epoch:0 ============== #
+{'val_loss': 0.6715141273174349, 'score': 0.6044553272814143}
+save model weight
+# ============ start epoch:1 ============== #
+{'val_loss': 0.6962933993772311, 'score': 0.6639925365672209}
+save model weight
+# ============ start epoch:2 ============== #
+{'val_loss': 0.6874676691030118, 'score': 0.7105148772795832}
+save model weight
+# ============ start epoch:3 ============== #
+{'val_loss': 0.7874428525124446, 'score': 0.68558641729124}
+# ============ start epoch:4 ============== #
+{'val_loss': 0.8211093121039199, 'score': 0.727910918816727}
+save model weight
+# ============ start epoch:5 ============== #
+{'val_loss': 0.8705193736765644, 'score': 0.7057376012810961}
+# ============ start epoch:6 ============== #
+{'val_loss': 0.8693485517706415, 'score': 0.7063890795698067}
+# ============ start epoch:7 ============== #
+{'val_loss': 0.8977901825416993, 'score': 0.7329078207126987}
+save model weight
+# ============ start epoch:8 ============== #
+{'val_loss': 0.9806754535967761, 'score': 0.7159494025392084}
+# ============ start epoch:9 ============== #
+{'val_loss': 0.9592019215275353, 'score': 0.730180140468424}
+The percentage of predictions over threshold is 93.6058009228741 %
+# ============ start epoch:0 ============== #
+{'val_loss': 1.0827056574742786, 'score': 0.4064483010216233}
+save model weight
+# ============ start epoch:1 ============== #
+{'val_loss': 0.7495070859150524, 'score': 0.559881052543434}
+save model weight
+# ============ start epoch:2 ============== #
+{'val_loss': 0.724949047313665, 'score': 0.5491894833009283}
+# ============ start epoch:3 ============== #
+{'val_loss': 0.6730137435909939, 'score': 0.5757390710873236}
+save model weight
+# ============ start epoch:4 ============== #
+{'val_loss': 0.7172606569705623, 'score': 0.5667058332805732}
+# ============ start epoch:5 ============== #
+{'val_loss': 0.6667197704708615, 'score': 0.6976235003753036}
+save model weight
+# ============ start epoch:6 ============== #
+{'val_loss': 0.6904645485453086, 'score': 0.7081035253732623}Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /home/sumiya/signate/student2022/code/pretrain/deverta_v3_large_5fold3/compe2022-deberta-v3-large/ were not used when initializing DebertaV2Model: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing DebertaV2Model from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing DebertaV2Model from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+
+save model weight
+# ============ start epoch:7 ============== #
+{'val_loss': 0.7010522219214109, 'score': 0.7147977292671573}
+save model weight
+# ============ start epoch:8 ============== #
+{'val_loss': 0.723937988477965, 'score': 0.6664335908817259}
+# ============ start epoch:9 ============== #
+{'val_loss': 0.7326067046757185, 'score': 0.6722023544266191}
+The percentage of predictions over threshold is 58.536585365853654 %
+# ============ start epoch:0 ============== #
+{'val_loss': 1.1955268288602923, 'score': 0.3370271067092415}
+save model weight
+# ============ start epoch:1 ============== #
+{'val_loss': 0.7127274611208698, 'score': 0.5851738790857961}
+save model weight
+# ============ start epoch:2 ============== #
+{'val_loss': 0.6990927512889648, 'score': 0.6730392700045909}
+save model weight
+# ============ start epoch:3 ============== #
+{'val_loss': 0.7052175687878045, 'score': 0.6929025617431415}
+save model weight
+# ============ start epoch:4 ============== #
+{'val_loss': 0.7085514884970763, 'score': 0.7239268694407137}
+save model weight
+# ============ start epoch:5 ============== #
+{'val_loss': 0.7079356485860969, 'score': 0.7204927116749913}
+# ============ start epoch:6 ============== #
+{'val_loss': 0.7662426404433675, 'score': 0.728066016864515}
+save model weight
+# ============ start epoch:7 ============== #
+{'val_loss': 0.808656097638725, 'score': 0.7394952528025625}
+save model weight
+# ============ start epoch:8 ============== #
+{'val_loss': 0.8480757128680894, 'score': 0.7467733176733604}
+save model weight
+# ============ start epoch:9 ============== #
+{'val_loss': 0.8722636349523815, 'score': 0.737590579710145}
+The percentage of predictions over threshold is 76.40079103493737 %
+# ============ start epoch:0 ============== #
+{'val_loss': 0.7530869086190025, 'score': 0.5359634579146775}
+save model weight
+# ============ start epoch:1 ============== #
+{'val_loss': 0.7556714092937633, 'score': 0.5584128939533929}
+save model weight
+# ============ start epoch:2 ============== #
+{'val_loss': 0.7341098602455441, 'score': 0.6763442942846394}
+save model weight
+# ============ start epoch:3 ============== #
+{'val_loss': 0.7987700734201437, 'score': 0.65614640901954}
+# ============ start epoch:4 ============== #
+{'val_loss': 0.7691834645696206, 'score': 0.7333997161316749}
+save model weight
+# ============ start epoch:5 ============== #
+{'val_loss': 0.9446231825123526, 'score': 0.7201379886064778}
+# ============ start epoch:6 ============== #
+{'val_loss': 1.0400319679735517, 'score': 0.715950715950716}
+# ============ start epoch:7 ============== #
+{'val_loss': 1.0724187697907879, 'score': 0.6932618635182837}
+# ============ start epoch:8 ============== #
+{'val_loss': 1.1743170290496876, 'score': 0.7102828551763722}
+# ============ start epoch:9 ============== #
+{'val_loss': 1.136862064155415, 'score': 0.6988164196823318}
+The percentage of predictions over threshold is 75.34607778510217 %
+# ============ start epoch:0 ============== #
+{'val_loss': 0.7392569567897532, 'score': 0.5608708433473191}
+save model weight
+# ============ start epoch:1 ============== #
+{'val_loss': 0.7433989878141447, 'score': 0.7094177086362314}
+save model weight
+# ============ start epoch:2 ============== #
+{'val_loss': 1.1364466217484805, 'score': 0.6068276974177391}
+# ============ start epoch:3 ============== #
+{'val_loss': 0.9057437655555927, 'score': 0.7017764534056169}
+# ============ start epoch:4 ============== #
+{'val_loss': 1.1320467410307906, 'score': 0.6468271970585631}
+# ============ start epoch:5 ============== #
+{'val_loss': 1.0692061951058138, 'score': 0.7333055986356147}
+save model weight
+# ============ start epoch:6 ============== #
+{'val_loss': 1.1036144500911826, 'score': 0.7402957193515703}
+save model weight
+# ============ start epoch:7 ============== #
+{'val_loss': 1.171773884752796, 'score': 0.746626407472399}
+save model weight
+# ============ start epoch:8 ============== #
+{'val_loss': 1.2309320220852842, 'score': 0.7334642930782974}
+# ============ start epoch:9 ============== #
+{'val_loss': 1.2701447189050932, 'score': 0.7411734473394521}
+The percentage of predictions over threshold is 90.1779828609097 %
+# ============ start epoch:0 ============== #
+{'val_loss': 0.7589505897103364, 'score': 0.5654377493791307}
+save model weight
+# ============ start epoch:1 ============== #
+{'val_loss': 0.7649510325771747, 'score': 0.7041278818284306}
+save model weight
+# ============ start epoch:2 ============== #
+{'val_loss': 0.8809909096645443, 'score': 0.7165228524354783}
+save model weight
+# ============ start epoch:3 ============== #
+{'val_loss': 0.9886236255711848, 'score': 0.7011215080276318}
+# ============ start epoch:4 ============== #
+{'val_loss': 1.1997593658985477, 'score': 0.6191936742967943}
+# ============ start epoch:5 ============== #
+{'val_loss': 1.116576906084621, 'score': 0.7265570931394109}
+save model weight
+# ============ start epoch:6 ============== #
+{'val_loss': 1.3472377138562721, 'score': 0.7413828771235609}
+save model weight
+# ============ start epoch:7 ============== #
+{'val_loss': 1.3617866513359271, 'score': 0.7292129913983766}
+# ============ start epoch:8 ============== #
+{'val_loss': 1.411705505139757, 'score': 0.7527650666406496}
+save model weight
+# ============ start epoch:9 ============== #
+{'val_loss': 1.41128671641397, 'score': 0.7432683813934803}
+The percentage of predictions over threshold is 95.1878707976269 %
+CV: 0.7397
+/home/sumiya/signate/student2022/code/Output/OUT_EX025/model/fold0.pth
+/home/sumiya/signate/student2022/code/Output/OUT_EX025/model/fold1.pth
+/home/sumiya/signate/student2022/code/Output/OUT_EX025/model/fold2.pth
+/home/sumiya/signate/student2022/code/Output/OUT_EX025/model/fold3.pth
+/home/sumiya/signate/student2022/code/Output/OUT_EX025/model/fold4.pth
